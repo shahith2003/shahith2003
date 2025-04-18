@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shahith2003
-- 👀 I’m interested in Frontend development
+- 👀 I’m interested in Full Stack development
 - 🌱 I’m currently learning HTML,CSS,Javascript and JS Frameworks
 - 📫 How to reach me mshahith21@gmail.com
 
